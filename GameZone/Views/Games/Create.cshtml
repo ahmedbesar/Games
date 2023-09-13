@@ -1,0 +1,108 @@
+﻿@model CreateGameFormViewModel 
+@{
+    ViewData["Title"] = "Add Game";
+}
+
+
+
+
+
+<div class="content-wrapper">
+    <div class="page-header">
+        <h3 class="page-title"> Add Game </h3>
+        <nav aria-label="breadcrumb">
+            
+        </nav>
+    </div>
+    <div class="row">
+        <div class="col-md-8 grid-margin stretch-card">
+            <div class="card">
+                <div class="card-body">
+                    <h4 class="card-title">Add New Game</h4>
+                    <form class="forms-sample" method="post" enctype="multipart-data"
+                          asp-controller="Games" asp-action="Create" role="form">
+
+
+                        
+                        <div class="form-group">
+                            <label asp-for="Name">Name</label>
+                            <input asp-for="Name" type="text" class="form-control" placeholder="Game Name">
+                            <span asp-validation-for="Name" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="CategoryId">Category</label>   
+                            <select class="form-select" asp-for="CategoryId" asp-items="Model.Categories"
+                          data-placeholder="Select Category" data-minimum-results-for-search="Infinity">
+                              <option value="" ></option>
+                            </select>
+
+                            <span asp-validation-for="CategoryId" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <label asp-for="SelectedDevices">Supported Devices</label>
+                            <select class="form-select" asp-for="SelectedDevices" asp-items="Model.Devices"
+                                    data-placeholder="Select Devices">
+                                <option value=""></option>
+       
+                            </select>
+
+                            <span asp-validation-for="SelectedDevices" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Description">Description</label>
+                            <textarea asp-for="Description" type="text" class="form-control" placeholder="Description">></textarea>
+                            <span asp-validation-for="Description" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Cover">Cover</label>
+                            <input asp-for="Cover" type="file" class="form-control"
+                                   data-rule-extension="@FileSettings.AllowedExtensions.Replace(".", string.Empty)"
+                                   data-msg-extension="Not allowed extension"
+                                   data-rule-filesize="@FileSettings.MaxFileSizeInBytes"
+                                   data-msg-filesize="Maximum allowed size is @FileSettings.MaxFileSizeInMB MB"
+                                   onchange="Upload.UploadDefaultImg(event)" accept=".jpg, .jpeg, .png, ,.gif">
+                            <small  class="form-text text-muted d-block">Only.jbg ,jpeg ,.png files are allowed with max size 1MB</small>
+                            <span asp-validation-for="Cover" class="text-danger"></span>
+                        </div>
+                        <button type="submit" formmethod="post" class="btn btn-light text-black mt-3">Save</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+         <div class="col-md-4 grid-margin stretch-card">
+            <div class="card">
+                <div class="card-body">
+                    <span id="tbImgName"></span>
+                    <div id="tbImgSrc">
+                        <img  style="width:95%; height300px;" />
+                    </div>
+                </div>
+            </div>
+        </div>
+
+      
+    </div>
+</div>
+
+@section Scripts
+    {
+    <parial name="_ValidationScriptsPartial" />
+    <script>
+        var Upload = {
+            UploadDefaultImg: function (e) {
+                const file = e.target.files[0];
+                const reader = new FileReader();
+                reader.onloadend = () => {
+                    CourseMediaImgName = file.name;
+                    CourseMediaImgBase64 = reader.result.slice(reader.result.indexOf('base64,') + 7);
+                    $("#tbImgName").html(file.name)
+                    $("#tbImgSrc").html(`<img class="thumbnail" src = "${reader.result}"  style = "width: 200px;height: 300px;border-radius: 5px;border: 1px solid #d9d9d9;padding: 1px;" />`)
+                };
+                reader.readAsDataURL(file);
+            }
+        }
+    </script>
+
+}
+
