@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Dzh57Ug28ud3jmUyM6NhHAxfEXqx6euGNT/y5dm8/fq4ajZZfUXKV9y1rGt8UEUost9GvwKS17ATVsksjLROfw==",
+  "dgSpecHash": "4pG8s6Yy1FR5d5Byhq3cHk0B1c+BxX5HHinHBzyNhTyb9VJGwm4Hrr/svjmY39Qe9xTLg73XyEiX0EpqE4UnLw==",
   "success": true,
-  "projectFilePath": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\GameZone.csproj",
+  "projectFilePath": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\GameZone.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pc\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

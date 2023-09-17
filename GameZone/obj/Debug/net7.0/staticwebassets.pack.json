@@ -1,363 +1,367 @@
 {
   "Files": [
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\GameZone.bundle.scp.css",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\GameZone.bundle.scp.css",
       "PackagePath": "staticwebassets\\GameZone.bundle.scp.css"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\Uploads\\Devices\\Playstation.png",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\Uploads\\Devices\\Playstation.png",
       "PackagePath": "staticwebassets\\Uploads\\Devices\\Playstation.png"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\0b3c4e52-4fea-448e-b706-8a1697c51d3f.png",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\0b3c4e52-4fea-448e-b706-8a1697c51d3f.png",
       "PackagePath": "staticwebassets\\assets\\images\\games\\0b3c4e52-4fea-448e-b706-8a1697c51d3f.png"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\0e1b61cf-f2a2-4e9a-8658-756fbd1b03a4.ini",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\0e1b61cf-f2a2-4e9a-8658-756fbd1b03a4.ini",
       "PackagePath": "staticwebassets\\assets\\images\\games\\0e1b61cf-f2a2-4e9a-8658-756fbd1b03a4.ini"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\14b20108-6307-4578-915e-5ed1355f3d0f.png",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\14b20108-6307-4578-915e-5ed1355f3d0f.png",
       "PackagePath": "staticwebassets\\assets\\images\\games\\14b20108-6307-4578-915e-5ed1355f3d0f.png"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\2a3b2274-6545-49af-b9c0-c598af726771.png",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\2a3b2274-6545-49af-b9c0-c598af726771.png",
       "PackagePath": "staticwebassets\\assets\\images\\games\\2a3b2274-6545-49af-b9c0-c598af726771.png"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\37a9d8f6-d5cd-42f2-bee5-7ffc9bfcfe0f.log",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\37a9d8f6-d5cd-42f2-bee5-7ffc9bfcfe0f.log",
       "PackagePath": "staticwebassets\\assets\\images\\games\\37a9d8f6-d5cd-42f2-bee5-7ffc9bfcfe0f.log"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\54659cd9-2ba2-48ce-a6ca-2ab1172704b9.png",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\54659cd9-2ba2-48ce-a6ca-2ab1172704b9.png",
       "PackagePath": "staticwebassets\\assets\\images\\games\\54659cd9-2ba2-48ce-a6ca-2ab1172704b9.png"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\584757e2-c582-4f16-b1dd-c2b225eab113.png",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\584757e2-c582-4f16-b1dd-c2b225eab113.png",
       "PackagePath": "staticwebassets\\assets\\images\\games\\584757e2-c582-4f16-b1dd-c2b225eab113.png"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\5c9b8546-eded-436e-9eec-e2325d5ffade.png",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\5c9b8546-eded-436e-9eec-e2325d5ffade.png",
       "PackagePath": "staticwebassets\\assets\\images\\games\\5c9b8546-eded-436e-9eec-e2325d5ffade.png"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\60339bb5-6c7a-44a8-a1b9-346a64f0ce95.png",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\60339bb5-6c7a-44a8-a1b9-346a64f0ce95.png",
       "PackagePath": "staticwebassets\\assets\\images\\games\\60339bb5-6c7a-44a8-a1b9-346a64f0ce95.png"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\70f9ce28-8c93-4999-9ec5-cdcaa225785b.png",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\70f9ce28-8c93-4999-9ec5-cdcaa225785b.png",
       "PackagePath": "staticwebassets\\assets\\images\\games\\70f9ce28-8c93-4999-9ec5-cdcaa225785b.png"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\79c9ebb7-3c51-4ac6-a0cd-e1d51586c2ef.png",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\79c9ebb7-3c51-4ac6-a0cd-e1d51586c2ef.png",
       "PackagePath": "staticwebassets\\assets\\images\\games\\79c9ebb7-3c51-4ac6-a0cd-e1d51586c2ef.png"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\806d0ee7-c424-485c-a725-0e208b198b72.png",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\806d0ee7-c424-485c-a725-0e208b198b72.png",
       "PackagePath": "staticwebassets\\assets\\images\\games\\806d0ee7-c424-485c-a725-0e208b198b72.png"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\8cfeca0d-ae17-4278-86a5-11a1f4a6e2c3.png",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\8cfeca0d-ae17-4278-86a5-11a1f4a6e2c3.png",
       "PackagePath": "staticwebassets\\assets\\images\\games\\8cfeca0d-ae17-4278-86a5-11a1f4a6e2c3.png"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\b62da366-726d-47e8-9e14-4a44a48bbcb8.png",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\b62da366-726d-47e8-9e14-4a44a48bbcb8.png",
       "PackagePath": "staticwebassets\\assets\\images\\games\\b62da366-726d-47e8-9e14-4a44a48bbcb8.png"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\c3ac1163-b99a-4e52-b273-744248c2f525.png",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\c2e6a5ea-d462-4671-bb50-061f7e4f95a9.png",
+      "PackagePath": "staticwebassets\\assets\\images\\games\\c2e6a5ea-d462-4671-bb50-061f7e4f95a9.png"
+    },
+    {
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\c3ac1163-b99a-4e52-b273-744248c2f525.png",
       "PackagePath": "staticwebassets\\assets\\images\\games\\c3ac1163-b99a-4e52-b273-744248c2f525.png"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\ca50af00-256d-4949-85dc-b2f41ebb8249.png",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\ca50af00-256d-4949-85dc-b2f41ebb8249.png",
       "PackagePath": "staticwebassets\\assets\\images\\games\\ca50af00-256d-4949-85dc-b2f41ebb8249.png"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\ee498bdf-de5f-42b6-84ae-66662230ef82.png",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\ee498bdf-de5f-42b6-84ae-66662230ef82.png",
       "PackagePath": "staticwebassets\\assets\\images\\games\\ee498bdf-de5f-42b6-84ae-66662230ef82.png"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\f1777898-b529-415e-9e9d-9e78bc554cfe.zip",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\f1777898-b529-415e-9e9d-9e78bc554cfe.zip",
       "PackagePath": "staticwebassets\\assets\\images\\games\\f1777898-b529-415e-9e9d-9e78bc554cfe.zip"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\f8bcec89-4379-4f84-9bdb-26221d8d9d5b.log",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\f8bcec89-4379-4f84-9bdb-26221d8d9d5b.log",
       "PackagePath": "staticwebassets\\assets\\images\\games\\f8bcec89-4379-4f84-9bdb-26221d8d9d5b.log"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\fff4cc49-8c56-41a2-9028-850b592b2778.png",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\fff4cc49-8c56-41a2-9028-850b592b2778.png",
       "PackagePath": "staticwebassets\\assets\\images\\games\\fff4cc49-8c56-41a2-9028-850b592b2778.png"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.css",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\bootstrap-icons.css"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.json",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.json",
       "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\bootstrap-icons.json"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.min.css",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\bootstrap-icons.min.css"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff",
       "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff2",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff2",
       "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff2"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\select2\\css\\select2.min.css",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\select2\\css\\select2.min.css",
       "PackagePath": "staticwebassets\\lib\\select2\\css\\select2.min.css"
     },
     {
-      "Id": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\select2\\js\\select2.min.js",
+      "Id": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\select2\\js\\select2.min.js",
       "PackagePath": "staticwebassets\\lib\\select2\\js\\select2.min.js"
     },
     {

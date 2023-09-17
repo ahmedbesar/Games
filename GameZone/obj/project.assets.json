@@ -4741,11 +4741,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\GameZone.csproj",
+      "projectUniqueName": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\GameZone.csproj",
       "projectName": "GameZone",
-      "projectPath": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\GameZone.csproj",
+      "projectPath": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\GameZone.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\obj\\",
+      "outputPath": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",

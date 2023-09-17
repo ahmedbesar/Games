@@ -24,44 +24,63 @@
                     <div class="row">
                         <div class="col-12">
                             <table id="order-listing" class="table table-hover">
-                                <thead>
-                                    <tr>
-                                        <th>Game Name </th>
-                                        <th>Category  </th>
-                                        <th>Supported Devices  </th>
-                                    </tr>
-                                </thead>
-                                <tbody>
-                                    @foreach (var cat in Model.Data)
-                                    {
+                              
+                                
+                                @if (!Model.Data.Any())
+                                {
 
-                                        <tr style="margin:0px;padding:0px;">
-                                            <td class="col-md-8">@cat.Name</td>
-                                            <td class="col-md-8">@cat.Category?.Name</td>
+                                    <div class="alert  alert-warning mt-5">
+                                        <h4 class="alert-heading">No Games!</h4>
+                                        <p class="mb-0">No Games added yet </p>
+                                    </div>
+
+                                }
+                                else
+                                {
+
+                                    <thead >
+                                        <tr>
+                                            <th>Game Name </th>
+                                            <th>Category  </th>
+                                            <th >Supported Devices  </th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        @foreach (var cat in Model.Data)
+                                        {
+
+                                            <tr style="margin:0px;padding:0px;">
+                                                <td class="col-md-8">@cat.Name</td>
+                                                <td class="col-md-8">@cat.Category?.Name</td>
 
 
-                                            @if ((@cat.GameDevices.Count())==1)
-                                            {
-                                                <td class="col-md-8">@cat.GameDevices.FirstOrDefault()?.Device.Name</td>
-
-                                            }
-                                            else
-                                            {
-                                                @foreach (var dd in @cat.GameDevices.ToList())
+                                                @if ((@cat.GameDevices.Count()) == 1)
                                                 {
-                                                    <td class="col-md-8">@dd.Device.Name</td>
+                                                    <td class="col-md-8">@cat.GameDevices.FirstOrDefault()?.Device.Name</td>
+
+                                                }
+                                                else
+                                                {
+                                                    @foreach (var dd in @cat.GameDevices.ToList())
+                                                    {
+                                                        <td class="col-md-8">@dd.Device.Name</td>
+
+                                                    }
+
 
                                                 }
 
-
-                                            }
-                                            
-                                        </tr>
+                                            </tr>
 
 
-                                    }
+                                        }
 
-                                </tbody>
+                                    </tbody>
+                                    
+                                }
+
+
+
                             </table>
                         </div>
                     </div>

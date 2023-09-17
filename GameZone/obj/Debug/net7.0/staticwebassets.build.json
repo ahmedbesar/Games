@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "LOrUjLWHg44CjycbE2n2CGgJhV8RrBDMAiB4tNtGbr8=",
+  "Hash": "zP3S9T+aHTElzSejOSf1QoBARPzFB+WzEMqETd7syxM=",
   "Source": "GameZone",
   "BasePath": "_content/GameZone",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "GameZone\\wwwroot",
       "Source": "GameZone",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\obj\\Debug\\net7.0\\scopedcss\\bundle\\GameZone.styles.css",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\obj\\Debug\\net7.0\\scopedcss\\bundle\\GameZone.styles.css",
       "SourceId": "GameZone",
       "SourceType": "Computed",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "GameZone.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\obj\\Debug\\net7.0\\scopedcss\\bundle\\GameZone.styles.css"
+      "OriginalItemSpec": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\obj\\Debug\\net7.0\\scopedcss\\bundle\\GameZone.styles.css"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\GameZone.bundle.scp.css",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\GameZone.bundle.scp.css",
       "SourceId": "GameZone",
       "SourceType": "Computed",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "GameZone.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\GameZone.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\GameZone.bundle.scp.css"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\0b3c4e52-4fea-448e-b706-8a1697c51d3f.png",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\0b3c4e52-4fea-448e-b706-8a1697c51d3f.png",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "assets/images/games/0b3c4e52-4fea-448e-b706-8a1697c51d3f.png",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\games\\0b3c4e52-4fea-448e-b706-8a1697c51d3f.png"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\0e1b61cf-f2a2-4e9a-8658-756fbd1b03a4.ini",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\0e1b61cf-f2a2-4e9a-8658-756fbd1b03a4.ini",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "assets/images/games/0e1b61cf-f2a2-4e9a-8658-756fbd1b03a4.ini",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\games\\0e1b61cf-f2a2-4e9a-8658-756fbd1b03a4.ini"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\14b20108-6307-4578-915e-5ed1355f3d0f.png",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\14b20108-6307-4578-915e-5ed1355f3d0f.png",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "assets/images/games/14b20108-6307-4578-915e-5ed1355f3d0f.png",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\games\\14b20108-6307-4578-915e-5ed1355f3d0f.png"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\2a3b2274-6545-49af-b9c0-c598af726771.png",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\2a3b2274-6545-49af-b9c0-c598af726771.png",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "assets/images/games/2a3b2274-6545-49af-b9c0-c598af726771.png",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\games\\2a3b2274-6545-49af-b9c0-c598af726771.png"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\37a9d8f6-d5cd-42f2-bee5-7ffc9bfcfe0f.log",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\37a9d8f6-d5cd-42f2-bee5-7ffc9bfcfe0f.log",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "assets/images/games/37a9d8f6-d5cd-42f2-bee5-7ffc9bfcfe0f.log",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\games\\37a9d8f6-d5cd-42f2-bee5-7ffc9bfcfe0f.log"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\54659cd9-2ba2-48ce-a6ca-2ab1172704b9.png",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\54659cd9-2ba2-48ce-a6ca-2ab1172704b9.png",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "assets/images/games/54659cd9-2ba2-48ce-a6ca-2ab1172704b9.png",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\games\\54659cd9-2ba2-48ce-a6ca-2ab1172704b9.png"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\584757e2-c582-4f16-b1dd-c2b225eab113.png",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\584757e2-c582-4f16-b1dd-c2b225eab113.png",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "assets/images/games/584757e2-c582-4f16-b1dd-c2b225eab113.png",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\games\\584757e2-c582-4f16-b1dd-c2b225eab113.png"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\5c9b8546-eded-436e-9eec-e2325d5ffade.png",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\5c9b8546-eded-436e-9eec-e2325d5ffade.png",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "assets/images/games/5c9b8546-eded-436e-9eec-e2325d5ffade.png",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\games\\5c9b8546-eded-436e-9eec-e2325d5ffade.png"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\60339bb5-6c7a-44a8-a1b9-346a64f0ce95.png",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\60339bb5-6c7a-44a8-a1b9-346a64f0ce95.png",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "assets/images/games/60339bb5-6c7a-44a8-a1b9-346a64f0ce95.png",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\games\\60339bb5-6c7a-44a8-a1b9-346a64f0ce95.png"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\70f9ce28-8c93-4999-9ec5-cdcaa225785b.png",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\70f9ce28-8c93-4999-9ec5-cdcaa225785b.png",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "assets/images/games/70f9ce28-8c93-4999-9ec5-cdcaa225785b.png",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\games\\70f9ce28-8c93-4999-9ec5-cdcaa225785b.png"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\79c9ebb7-3c51-4ac6-a0cd-e1d51586c2ef.png",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\79c9ebb7-3c51-4ac6-a0cd-e1d51586c2ef.png",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "assets/images/games/79c9ebb7-3c51-4ac6-a0cd-e1d51586c2ef.png",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\games\\79c9ebb7-3c51-4ac6-a0cd-e1d51586c2ef.png"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\806d0ee7-c424-485c-a725-0e208b198b72.png",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\806d0ee7-c424-485c-a725-0e208b198b72.png",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "assets/images/games/806d0ee7-c424-485c-a725-0e208b198b72.png",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\games\\806d0ee7-c424-485c-a725-0e208b198b72.png"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\8cfeca0d-ae17-4278-86a5-11a1f4a6e2c3.png",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\8cfeca0d-ae17-4278-86a5-11a1f4a6e2c3.png",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "assets/images/games/8cfeca0d-ae17-4278-86a5-11a1f4a6e2c3.png",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\games\\8cfeca0d-ae17-4278-86a5-11a1f4a6e2c3.png"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\b62da366-726d-47e8-9e14-4a44a48bbcb8.png",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\b62da366-726d-47e8-9e14-4a44a48bbcb8.png",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "assets/images/games/b62da366-726d-47e8-9e14-4a44a48bbcb8.png",
       "AssetKind": "All",
@@ -289,10 +289,27 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\games\\b62da366-726d-47e8-9e14-4a44a48bbcb8.png"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\c3ac1163-b99a-4e52-b273-744248c2f525.png",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\c2e6a5ea-d462-4671-bb50-061f7e4f95a9.png",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
+      "BasePath": "_content/GameZone",
+      "RelativePath": "assets/images/games/c2e6a5ea-d462-4671-bb50-061f7e4f95a9.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\games\\c2e6a5ea-d462-4671-bb50-061f7e4f95a9.png"
+    },
+    {
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\c3ac1163-b99a-4e52-b273-744248c2f525.png",
+      "SourceId": "GameZone",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "assets/images/games/c3ac1163-b99a-4e52-b273-744248c2f525.png",
       "AssetKind": "All",
@@ -306,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\games\\c3ac1163-b99a-4e52-b273-744248c2f525.png"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\ca50af00-256d-4949-85dc-b2f41ebb8249.png",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\ca50af00-256d-4949-85dc-b2f41ebb8249.png",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "assets/images/games/ca50af00-256d-4949-85dc-b2f41ebb8249.png",
       "AssetKind": "All",
@@ -323,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\games\\ca50af00-256d-4949-85dc-b2f41ebb8249.png"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\ee498bdf-de5f-42b6-84ae-66662230ef82.png",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\ee498bdf-de5f-42b6-84ae-66662230ef82.png",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "assets/images/games/ee498bdf-de5f-42b6-84ae-66662230ef82.png",
       "AssetKind": "All",
@@ -340,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\games\\ee498bdf-de5f-42b6-84ae-66662230ef82.png"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\f1777898-b529-415e-9e9d-9e78bc554cfe.zip",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\f1777898-b529-415e-9e9d-9e78bc554cfe.zip",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "assets/images/games/f1777898-b529-415e-9e9d-9e78bc554cfe.zip",
       "AssetKind": "All",
@@ -357,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\games\\f1777898-b529-415e-9e9d-9e78bc554cfe.zip"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\f8bcec89-4379-4f84-9bdb-26221d8d9d5b.log",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\f8bcec89-4379-4f84-9bdb-26221d8d9d5b.log",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "assets/images/games/f8bcec89-4379-4f84-9bdb-26221d8d9d5b.log",
       "AssetKind": "All",
@@ -374,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\games\\f8bcec89-4379-4f84-9bdb-26221d8d9d5b.log"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\fff4cc49-8c56-41a2-9028-850b592b2778.png",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\assets\\images\\games\\fff4cc49-8c56-41a2-9028-850b592b2778.png",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "assets/images/games/fff4cc49-8c56-41a2-9028-850b592b2778.png",
       "AssetKind": "All",
@@ -391,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\games\\fff4cc49-8c56-41a2-9028-850b592b2778.png"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\css\\bootstrap.min.css",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "css/bootstrap.min.css",
       "AssetKind": "All",
@@ -408,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\css\\site.css",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -425,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\favicon.ico",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -442,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\js\\site.js",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -459,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -476,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -493,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -510,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -527,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -544,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -561,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -578,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -595,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -612,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -629,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -646,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -663,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -680,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -697,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -714,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -731,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -748,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -765,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -782,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -799,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -816,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -833,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -850,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -867,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -884,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -901,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -918,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -935,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -952,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -969,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -986,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1003,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1020,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1037,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1054,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1071,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1088,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1105,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1122,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1139,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1156,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1173,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1190,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1207,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1224,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.css",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.css",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "lib/bootstrap-icons/font/bootstrap-icons.css",
       "AssetKind": "All",
@@ -1241,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.css"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.json",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.json",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "lib/bootstrap-icons/font/bootstrap-icons.json",
       "AssetKind": "All",
@@ -1258,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.json"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.min.css",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.min.css",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "lib/bootstrap-icons/font/bootstrap-icons.min.css",
       "AssetKind": "All",
@@ -1275,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.min.css"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "lib/bootstrap-icons/font/fonts/bootstrap-icons.woff",
       "AssetKind": "All",
@@ -1292,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff2",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff2",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "lib/bootstrap-icons/font/fonts/bootstrap-icons.woff2",
       "AssetKind": "All",
@@ -1309,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff2"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1326,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1343,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1360,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1377,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1394,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1411,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1428,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1445,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1462,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1479,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1496,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1513,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\select2\\css\\select2.min.css",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\select2\\css\\select2.min.css",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "lib/select2/css/select2.min.css",
       "AssetKind": "All",
@@ -1530,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\select2\\css\\select2.min.css"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\lib\\select2\\js\\select2.min.js",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\lib\\select2\\js\\select2.min.js",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "lib/select2/js/select2.min.js",
       "AssetKind": "All",
@@ -1547,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\select2\\js\\select2.min.js"
     },
     {
-      "Identity": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\Uploads\\Devices\\Playstation.png",
+      "Identity": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\Uploads\\Devices\\Playstation.png",
       "SourceId": "GameZone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\dotnet trainning\\solution files\\GameZone\\GameZone\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pc\\UploadProjects\\GameZone\\GameZone\\wwwroot\\",
       "BasePath": "_content/GameZone",
       "RelativePath": "Uploads/Devices/Playstation.png",
       "AssetKind": "All",
